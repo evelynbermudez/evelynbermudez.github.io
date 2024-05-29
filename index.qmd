@@ -1,11 +1,21 @@
 ---
-title: "evelynbermudez.github.io"
+title: "Evelyn Bermudez"
+toc: false
+about: 
+  template: jolla
+  image: Downloads/profile_picture.heic
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/evelyn-bermudez-a10625229/
+    - icon: github
+      text: Github
+      href: https://github.com/evelynbermudez
+    - icon: gmail
+      text: Email
+      href: mailto:evelyn.bermudez02@gmail.com
 ---
 
-This is a Quarto website.
+## About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I’m a fourth year, Economics and Environmental Studies double major. In addition to serving as the Undergraduate Economics Association’s Events Chair, I am a second-year Fellow in the Bren-Environmental Studies Fellowship. I also work in Dr. Samantha Stevenson’s Climate DataLab as an undergraduate researcher.
