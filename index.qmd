@@ -3,7 +3,7 @@ title: "Evelyn Bermudez"
 toc: false
 about: 
   template: jolla
-  image: media/profile_picture.heic
+  image: media/profile_picture.jpeg
   links:
     - icon: linkedin
       text: LinkedIn
