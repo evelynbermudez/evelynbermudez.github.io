@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Running"
 ---
 
-About this site
+I started running when I joined cross country and track in high school. I stopped running once COVID-19 hit in 2020, but when I moved to Isla Vista in the summer of 2021 I wanted to begin running again as a way to spend more time outside. I was a very inconsistent runner during my second year, but after having a tough time dealing with stressing my during this first year living away from my family, I set a target goal to run at least twice a week starting the summer of 2022. I kept this target most weeks of my third year, but in an effort to viewing running as a fun break from school and not a chore, I allowed myself leniency on going on meeting this target goal if it added stress to my life in order to fit them in my schedule.
 
-```{r}
-1 + 1
-```
+These past two years, running has been a very useful tool for me to manage stress and anxiety by allowing me to take a breather from school work that did not involve staring at a screen. During my last year at UCSB, I wanted to add a third run to my week in order to begin preparing to run races again. While running three times a week does not seem like a daunting task, it was often difficult to decide what days and times I could go running depending on my workload for the day, the weather, and the daylight available. I especially wanted to add more runs to my week in order to take advantage of being able to run at Coal Oil Point while I still lived in IV. It is my favorite running route.
