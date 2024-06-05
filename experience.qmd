@@ -3,19 +3,20 @@ title: "Extracurriculars and Job Experience"
 toc: TRUE 
 ---
 # Gift Department Student Worker
-I worked at the UCSB Campus Store from July 2021 to December 2022 in the Gifts Department. I provided customers with assistance while restocking products on sales floor. I also identified well/low selling products and used these observations to rearrange displays on sales floor to increase foot traffic and sales for all products.
+I worked at the UCSB Campus Store from July 2021 to December 2022 in the Gifts Department. I provided customers with assistance while restocking products on sales floor. I also identified well/low selling products and used these observations to rearrange displays on sales floor to increase foot traffic and sales for all products. During busy hours, I worked across multiple departments such as Supplies, Clothing, and Textbooks, assisting customers and maintaining store organization.  
 
 # UEA Events Chair
 I joined the Undergraduate Economics Association (UEA) during my second year as part of the Events Committee and began serving as the Events Chair the following year (2022-2024). As the Events Chair, I planned academic and career events given a $500 budget per quarter catered to students with an interest in economics, creating networking opportunities, and highlighting relevant resources for them at UCSB. I coordinated communications with undergraduates, graduates, professors, and alumni who could provide members with insight into building their future as UEA’s liaison in UCSB’s Business Undergraduate Society. This past school year, I created and lead the Events Committee to increase events held throughout a quarter from three to six and boost member involvement.
 
 # Bren-Environmental Studies Fellow
 During my third year at UCSB I was selected to be part of the Bren-Environmental Studies Fellowship (BESF) (2022-2024). I was been able to explore different career and academic paths through this program through the connections provided to Fellows with Bren students, faculty, and alumni working in the environmental field. I collaborated with my cohort as the Projects Committee’s Team Coordinator to execute community projects such as creek clean-ups by arranging transportation and team duties. The program also gave me the opportunity to engage in mentoring first-year fellows alongside the program director to ensure fellows’ career interests were being met. 
-Here is the link to my page on the BESF's webpage:
-<https://bren.ucsb.edu/people/evelyn-bermudez>
 
-During my fourth year I started working with Dr. Samantha Stevenson.
+Here is the link to my page on the BESF's webpage: [BESF](https://bren.ucsb.edu/people/evelyn-bermudez)
 
-<https://climate-datalab.org/>
+# Climate DataLab
+During my fourth year I started working with Dr. Samantha Stevenson to develop a learning resource website for climate models (2023-2024). I did not know much about climate model and how they are used when I started so I investigated different climate model learning resources with the goal of developing a learning module to facilitate the application of climate models to a variety of projects. Not having prior experience using climate models enabled me to identify areas of confusion when utilizing climate model data such as selecting a model, which differ in how they project natural variability, feedbacks, and forcing, depending on the research questions to ensure the accuracy of the resulting analysis. I developed example Python scripts demonstrating effective methods to handling climate data in CSV and netCDF format, for instance, dealing with date/time format discrepancies between a data file and a library being used to plot a time series of air surface temperature. 
 
-![](media/stevenson_group.png)
+[Climate DataLab](https://climate-datalab.org/)
+
+![Dr. Samantha Stevenson's Group Members](media/stevenson_group.png)
 
