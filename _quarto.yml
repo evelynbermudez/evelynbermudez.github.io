@@ -15,6 +15,7 @@ website:
 format:
   html:
     theme: styles.scss # I've also removed the `css: styles.css` option that was included by default
+    mainfont: IBM Plex Serif
     toc: true
     page-layout: full
 
