@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - experience.qmd
+      - courses.qmd
 
 format:
   html:
