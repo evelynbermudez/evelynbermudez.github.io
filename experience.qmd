@@ -16,7 +16,7 @@ Here is the link to my page on the BESF's webpage: [BESF](https://bren.ucsb.edu/
 # Climate DataLab
 During my fourth year I started working with Dr. Samantha Stevenson to develop a learning resource website for climate models (2023-2024). I did not know much about climate model and how they are used when I started so I investigated different climate model learning resources with the goal of developing a learning module to facilitate the application of climate models to a variety of projects. Not having prior experience using climate models enabled me to identify areas of confusion when utilizing climate model data such as selecting a model, which differ in how they project natural variability, feedbacks, and forcing, depending on the research questions to ensure the accuracy of the resulting analysis. I developed example Python scripts demonstrating effective methods to handling climate data in CSV and netCDF format, for instance, dealing with date/time format discrepancies between a data file and a library being used to plot a time series of air surface temperature. 
 
-[Climate DataLab](https://climate-datalab.org/)
+Here is the website with climate model learning resources: [Climate DataLab](https://climate-datalab.org/)
 
 ![Dr. Samantha Stevenson's Group Members](media/stevenson_group.png)
 
