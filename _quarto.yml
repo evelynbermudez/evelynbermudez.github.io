@@ -15,9 +15,6 @@ website:
 format:
   html:
     theme: styles.scss # I've also removed the `css: styles.css` option that was included by default
-      light: flatly
-      dark: darkly
-    css: styles.css
     toc: true
     page-layout: full
 
