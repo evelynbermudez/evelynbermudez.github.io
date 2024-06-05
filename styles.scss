@@ -2,16 +2,16 @@
 
 // Colors
 $deep-blue: #849DEE;
-$light-blue: #81B4F1;
-$purple: #AC9DEE;
-$orange: #FBC07B;
+$alice-blue: #F0F8FF;
+$mets-blue: #002D72;
+$periwinkle: #CCCCFF;
 $light-pink: #FDEBEE;
 $cream: #FDFBF7;
 
 // Base document colors
-$navbar-bg: $light-pink; // navbar
-$navbar-fg: $light-blue; // navbar foreground elements
-$navbar-hl: $deep-blue; // highlight color when hovering over navbar links
+$navbar-bg: $mets-blue; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $light-pink; // highlight color when hovering over navbar links
 $body-bg: $cream; // page background 
-$body-color: $orange; // page text 
-$link-color: $purple; // hyperlinks 
+$body-color: $mets-blue; // page text 
+$link-color: $periwinkle; // hyperlinks 
