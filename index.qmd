@@ -1,9 +1,11 @@
+<div>
+
 ---
 title: "Evelyn Bermudez"
 toc: false
 about: 
   template: jolla
-  image: media/profile_picture.jpeg
+  image: media/grad_pic.jpeg
   links:
     - icon: linkedin
       text: LinkedIn
@@ -11,11 +13,13 @@ about:
     - icon: github
       text: Github
       href: https://github.com/evelynbermudez
-    - icon: gmail
+    - icon: envelope
       text: Email
       href: mailto:evelyn.bermudez02@gmail.com
 ---
 
+</div>
+
 ## About me
 
-I’m a fourth year, Economics and Environmental Studies double major. In addition to serving as the Undergraduate Economics Association’s Events Chair, I am a second-year Fellow in the Bren-Environmental Studies Fellowship. I also work in Dr. Samantha Stevenson’s Climate DataLab as an undergraduate researcher.
+I’m a fourth year, Economics and Environmental Studies double major at the University of California, Santa Barbara. I will be graduating in 10 days! In addition to serving as the Undergraduate Economics Association’s Events Chair, I am a second-year Fellow in the Bren-Environmental Studies Fellowship. I also work in Dr. Samantha Stevenson’s Climate DataLab as an undergraduate researcher.
