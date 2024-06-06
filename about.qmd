@@ -1,5 +1,7 @@
 ---
 title: "Running"
+toc: false
+lightbox: auto
 ---
 
 # Why I run
@@ -10,7 +12,7 @@ These past two years, running has helped me manage stress and anxiety. It has be
 
 I take pictures and/or videos on each of my runs so that I could look back at them and the views I was able to take in later on. The photos in the gallery below are some of my favorites!
 
-::: {.layout-ncol=3}
+::: {layout-nrow=3 layout-valign="bottom"}
 ![Sunset Run at Coal Oil Point](media/sunsets.jpeg){group="gallery"} 
 !["Ran" into a little friend on DP at sunset](media/sunset1.jpeg){group="gallery"} 
 ![Sunset after a rainy week](media/sunset2.jpeg){group="gallery"} 
@@ -21,4 +23,3 @@ I take pictures and/or videos on each of my runs so that I could look back at th
 ![Morning Run at Coal Oil Point](media/morning3.jpeg){group="gallery"}
 ![5K Turkey Trot at the UCSB Lagoon in Fall 2023](media/turkey_trot.jpeg){group="gallery"}
 :::
-
