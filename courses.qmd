@@ -1,3 +1,15 @@
 ---
 title: "Courses"
 ---
+
+# Econometerics (ECON 140A-B)
+These courses covered advance training in linear regression models of observational data. I learned to interpret models with interactions, account for endogeneity, and correctly estimate standard error for cluster and time series data.   
+
+# Data Wrangling for Economics (ECON 149)
+Data Wrangling focused on techniques for cleaning, transforming, and organizing large datasets for economic analyses using R and RStudio. I was able to enhance my abilities to communicate findings clearly using data visualization techniques.
+
+# Financial Management (ECON 134A)
+Financial Management examined how individuals and firms maximize profits while minimizing risk using the Capital Asset Pricing Model (CAPM). I applied discounting of certain future cash flows, explored the principles of evaluation of investment projects, and conducted analyses of a firm's debt and dividend policies and how taxes and inflation effect these policies.
+
+# Financial Management and Environmental Accounting (ESM 279)
+Financial Management and Environmental Accounting examined what motivates companies to be environmentally friendly through the study of how a firm's market value is determined and how investor manage risk. I was able to investigate how Environmental, Social, and Governance (ESG) investing is growing as the construction of ESG investment opportunities evolves with emerging environmental and social regulations.

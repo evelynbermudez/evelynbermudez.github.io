@@ -12,14 +12,6 @@ These past two years, running has helped me manage stress and anxiety. It has be
 
 I take pictures and/or videos on each of my runs so that I could look back at them and the views I was able to take in later on. The photos in the gallery below are some of my favorites!
 
-::: {layout-ncol=3}
-![Sunset Run at Coal Oil Point](media/sunsets.jpeg){width=30%}
-!["Ran" into a little friend on DP at sunset](media/sunset1.jpeg){width=30%}
-![Sunset after a rainy week](media/sunset2.jpeg){width=30%}
-![Sunset Run at Devs](media/sunset3.jpeg){width=30%}
-![Sunset Run on DP](media/sunset4.jpeg){width=30%}
-![Morning run at Campus Point](media/morning.jpeg){width=30%}
-![Morning Run at the end of DP](media/morning2.jpeg){width=30%}
-![Morning Run at Coal Oil Point](media/morning3.jpeg){width=30%}
-![5K Turkey Trot at the UCSB Lagoon in Fall 2023](media/turkey_trot.jpeg){width=30%}
+::: {layout-ncol="3"}
+![Sunset Run at Coal Oil Point](media/sunsets.jpeg){width="30%"} !["Ran" into a little friend on DP at sunset](media/sunset1.jpeg){width="30%"} ![Sunset after a rainy week](media/sunset2.jpeg){width="30%"} ![Sunset Run at Devs](media/sunset3.jpeg){width="30%"} ![Sunset Run on DP](media/sunset4.jpeg){width="30%"} ![Morning run at Campus Point](media/morning.jpeg){width="30%"} ![Morning Run at the end of DP](media/morning2.jpeg){width="30%"} ![Morning Run at Coal Oil Point](media/morning3.jpeg){width="30%"} ![5K Turkey Trot at the UCSB Lagoon in Fall 2023](media/turkey_trot.jpeg){width="30%"}
 :::
